@@ -1,5 +1,4 @@
-## Welcome to Nawcz
-
+# Welcome to Nawcz
 W Nawczu to jest życie :^ )
 
 OK. Let's try to add some **bold text**. And some of that famous *italic text*.
@@ -31,3 +30,8 @@ Mixed:
       - Sub Sub point
       - Extra sub sub
     - back to Sub point
+
+I can add image just like link except here I need to start with exclamation mark
+![Flower image](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+> If everyone would be smart... no one would... ~ Jeż Stefan
