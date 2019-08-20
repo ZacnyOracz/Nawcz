@@ -35,3 +35,15 @@ I can add image just like link except here I need to start with exclamation mark
 ![Flower image](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 > If everyone would be smart... no one would... ~ Jeż Stefan
+
+Oh right. Let's try to add some `let inline_code = 34` And following code takes multiple lines
+
+    if (you == 'Great') {
+      you = 'Douchebag'
+      }
+
+And a task list:
+
+  - [ ] First Task
+  - [x] Second Task
+  - [x] Third Task
