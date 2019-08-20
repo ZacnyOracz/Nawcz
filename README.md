@@ -47,3 +47,10 @@ And a task list:
   - [ ] First Task
   - [x] Second Task
   - [x] Third Task
+  
+A table
+
+First column | Second column
+------------ | -------------
+First value | Second value
+Third value | Fourth value
