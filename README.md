@@ -1,7 +1,7 @@
 # Welcome to Nawcz
 W Nawczu to jest życie :^ )
 
-OK. Let's try to add some **bold text**. And some of that famous *italic text*.
+OK. Let's try to add some **bold text**. And some of that famous *italic text*. I almost forgot about ~~strikethrough~~ 
 Oh boy. I can even make [links](https://www.youtube.com/watch?v=OlEHT04LAqA).
 What about the list?? 
 
