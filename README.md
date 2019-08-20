@@ -1,38 +1,33 @@
 ## Welcome to Nawcz
 
 W Nawczu to jest życie :^ )
-You can use the [editor on GitHub](https://github.com/ZacnyOracz/Nawcz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OK. Let's try to add some **bold text**. And some of that famous *italic text*.
+Oh boy. I can even make [links](https://www.youtube.com/watch?v=OlEHT04LAqA).
+What about the list?? 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZacnyOracz/Nawcz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Numerical:
+ 1. One
+ 2. Two
+ 3. Three 
+ 
+Dot-ical:
+  * One
+  * Two
+  * Three 
+  
+Dash-ical:
+  - One
+  - Two
+  - Three 
+  
+Mixed:
+  1. One
+  * Two
+  - Three
+  3. Three
+  - Main point
+    - Sub point
+      - Sub Sub point
+      - Extra sub sub
+    - back to Sub point
